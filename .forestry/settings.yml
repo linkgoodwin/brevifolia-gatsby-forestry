@@ -13,6 +13,8 @@ sections:
   match: "**/*"
   new_doc_ext: md
   templates:
+  - info-page
+  - site-info
   - blog-post
 - type: document
   path: content/data/authors.yaml
